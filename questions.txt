@@ -1,0 +1,194 @@
+type=multipleChoice
+question=What is 5 x 5?
+choices=25,20,15,30
+answer=25
+
+type=multipleChoice
+question=The capital of France is Paris.
+choices=True,False
+answer=True
+
+type=multipleChoice
+question=Who wrote "Romeo and Juliet"?
+choices=William Shakespeare,Jane Austen,Charles Dickens,Mark Twain
+answer=William Shakespeare
+
+type=multipleChoice
+question=Water boils at 100 degrees Celsius.
+choices=True,False
+answer=True
+
+type=multipleChoice
+question=What is the largest planet in our solar system?
+choices=Jupiter,Saturn,Earth,Mars
+answer=Jupiter
+
+type=multipleChoice
+question=Who discovered penicillin?
+choices=Alexander Fleming,Albert Einstein,Isaac Newton,Marie Curie
+answer=Alexander Fleming
+
+type=multipleChoice
+question=What is the currency of Japan?
+choices=Yen,Yuan,Euro,Dollar
+answer=Yen
+
+type=multipleChoice
+question=Which of the following is not a primary color?
+choices=Brown,Red,Blue,Yellow
+answer=Brown
+
+type=multipleChoice
+question=What is the tallest mountain in the world?
+choices=Mount Everest,K2,Kangchenjunga,Lhotse
+answer=Mount Everest
+
+type=multipleChoice
+question=What is the chemical symbol for carbon?
+choices=C,Co,Cr,Ca
+answer=C
+
+type=multipleChoice
+question=Which planet is known as the Red Planet?
+choices=Mars,Venus,Jupiter,Mercury
+answer=Mars
+
+type=multipleChoice
+question=What is the chemical symbol for oxygen?
+choices=O,Oh,Ox,O2
+answer=O
+
+type=multipleChoice
+question=Who wrote "To Kill a Mockingbird"?
+choices=Harper Lee,J.K. Rowling,Ernest Hemingway,F. Scott Fitzgerald
+answer=Harper Lee
+
+type=multipleChoice
+question=What is the largest mammal in the world?
+choices=Blue Whale,Elephant,Giraffe,Hippopotamus
+answer=Blue Whale
+
+type=multipleChoice
+question=What is the capital of Brazil?
+choices=Brasília,Rio de Janeiro,São Paulo,Buenos Aires
+answer=Brasília
+
+type=trueFalse
+question=The Earth is flat.
+choices=True,False
+answer=False
+
+type=trueFalse
+question=The Nile is the longest river in the world.
+choices=True,False
+answer=True
+
+type=trueFalse
+question=Albert Einstein invented the telephone.
+choices=True,False
+answer=False
+
+type=trueFalse
+question=The Amazon Rainforest is primarily located in Africa.
+choices=True,False
+answer=False
+
+type=trueFalse
+question=All mammals lay eggs.
+choices=True,False
+answer=False
+
+type=trueFalse
+question=Antarctica is the coldest continent on Earth.
+choices=True,False
+answer=True
+
+type=trueFalse
+question=The Great Wall of China was built in the 14th century.
+choices=True,False
+answer=False
+
+type=trueFalse
+question=The Pacific Ocean is the largest ocean on Earth.
+choices=True,False
+answer=True
+
+type=trueFalse
+question=Marie Curie discovered radium.
+choices=True,False
+answer=True
+
+type=trueFalse
+question=Mount Kilimanjaro is located in South America.
+choices=True,False
+answer=False
+
+type=shortAnswer
+question=What is the capital of Japan?
+choices=
+answer=Tokyo
+
+type=shortAnswer
+question=What is the chemical symbol for gold?
+choices=
+answer=Au
+
+type=shortAnswer
+question=Who painted the Mona Lisa?
+choices=
+answer=Leonardo da Vinci
+
+type=shortAnswer
+question=What is the powerhouse of the cell?
+choices=Mitochondria,Nucleus,Ribosome,Golgi Apparatus
+answer=Mitochondria
+
+type=shortAnswer
+question=What is the tallest building in the world?
+choices=
+answer=Burj Khalifa
+
+type=shortAnswer
+question=Who wrote "1984"?
+choices=
+answer=George Orwell
+
+type=shortAnswer
+question=What is the chemical symbol for sodium?
+choices=
+answer=Na
+
+type=shortAnswer
+question=What is the largest desert in the world?
+choices=
+answer=Antarctica
+
+type=shortAnswer
+question=Who discovered gravity?
+choices=
+answer=Isaac Newton
+
+type=shortAnswer
+question=What is the capital of Australia?
+choices=
+answer=Canberra
+
+type=shortAnswer
+question=Who painted "The Starry Night"?
+choices=
+answer=Vincent van Gogh
+
+type=shortAnswer
+question=What is the chemical symbol for silver?
+choices=
+answer=Ag
+
+type=shortAnswer
+question=What is the smallest country in the world?
+choices=
+answer=Vatican City
+
+type=shortAnswer
+question=Who wrote "Pride and Prejudice"?
+choices=
+answer=Jane Austen
